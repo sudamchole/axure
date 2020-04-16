@@ -1,7 +1,8 @@
 # axure
 
 A new Flutter application.
-
+To run project remove the screens.zip 
+app-release.apk file directly get install on your android device to check the functionality
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -15,5 +16,3 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-To run project remove the screens.zip 
-app-release.apk file directly get install on your android device to check the functionality.
