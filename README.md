@@ -16,3 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 To run project remove the screens.zip 
+app-release.apk file directly get install on your android device to check the functionality.
